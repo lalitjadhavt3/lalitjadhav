@@ -6,6 +6,9 @@
 
 ⚡ Fun fact: I am a huge fan and ex gaming community member of <strong>BGMI</strong>. I like to react Tech Blogs, Travel Blogs and read self-help books.Started my first gaming video in 2011 even before when gaming became the trend.😉
 
+## Download Resume 
+<h3><a href="https://drive.google.com/file/d/1uOJYUTG5-goGEnDnCDS0Cb43UkcDUHA9/view?usp=sharing" download>Download Resume</a></h3>
+<br/>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
  <a href="https://www.linkedin.com/in/lalit--jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lalit's Linkedin profile" height="30" width="40" /></a>
